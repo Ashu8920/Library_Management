@@ -13,8 +13,12 @@
   "isbn",
   "status",
   "publisher",
+  "get_issued_count",
   "section_break_nody",
-  "decription"
+  "decription",
+  "pages",
+  "tab_2_tab",
+  "article_area"
  ],
  "fields": [
   {
@@ -63,13 +67,33 @@
    "fieldname": "decription",
    "fieldtype": "Text Editor",
    "label": "Decription"
+  },
+  {
+   "fieldname": "pages",
+   "fieldtype": "Data",
+   "label": "Pages"
+  },
+  {
+   "fieldname": "tab_2_tab",
+   "fieldtype": "Tab Break",
+   "label": "Tab 2"
+  },
+  {
+   "fieldname": "article_area",
+   "fieldtype": "Data",
+   "label": "Area"
+  },
+  {
+   "fieldname": "get_issued_count",
+   "fieldtype": "Button",
+   "label": "Get Article Count"
   }
  ],
  "grid_page_length": 50,
  "image_field": "artice_image",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-04-27 12:25:21.714598",
+ "modified": "2025-04-30 15:05:58.554795",
  "modified_by": "Administrator",
  "module": "Library Management System",
  "name": "Article",

@@ -6,4 +6,6 @@ from frappe.model.document import Document
 
 
 class LibraryMember(Document):
-	pass
+		def validate(self):
+        # Ensure full_name is auto-filled before saving
+       		 self.full_name = f"{self.first_name or ''} {self.last_name or ''}".strip()
