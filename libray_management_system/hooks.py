@@ -28,6 +28,12 @@ app_license = "mit"
 # app_include_css = "/assets/libray_management_system/css/libray_management_system.css"
 # app_include_js = "/assets/libray_management_system/js/libray_management_system.js"
 
+
+# Export Fixtures
+fixtures=[
+    "Article Type"
+]
+
 # include js, css files in header of web template
 # web_include_css = "/assets/libray_management_system/css/libray_management_system.css"
 # web_include_js = "/assets/libray_management_system/js/libray_management_system.js"

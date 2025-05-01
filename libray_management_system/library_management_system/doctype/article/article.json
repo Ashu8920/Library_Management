@@ -9,6 +9,7 @@
   "article_name",
   "artice_image",
   "author_name",
+  "article_type",
   "column_break_hcns",
   "isbn",
   "status",
@@ -87,13 +88,19 @@
    "fieldname": "get_issued_count",
    "fieldtype": "Button",
    "label": "Get Article Count"
+  },
+  {
+   "fieldname": "article_type",
+   "fieldtype": "Link",
+   "label": "Article Type",
+   "options": "Article Type"
   }
  ],
  "grid_page_length": 50,
  "image_field": "artice_image",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-04-30 15:05:58.554795",
+ "modified": "2025-05-01 11:32:09.272154",
  "modified_by": "Administrator",
  "module": "Library Management System",
  "name": "Article",

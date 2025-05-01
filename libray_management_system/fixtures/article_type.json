@@ -1,0 +1,34 @@
+[
+ {
+  "article_type": "Cultural Article",
+  "description": "Analyzes and evaluates aspects of culture, such as films, books, art, music, or societal trends. These articles offer opinions backed by reasoning and often include context about the work or issue.",
+  "docstatus": 0,
+  "doctype": "Article Type",
+  "modified": "2025-05-01 11:37:08.649716",
+  "name": "Cultural"
+ },
+ {
+  "article_type": "Travel Article",
+  "description": " Describes destinations, experiences, and travel tips. Often combines personal narrative with factual details about culture, geography, and logistics to inspire or guide travelers.",
+  "docstatus": 0,
+  "doctype": "Article Type",
+  "modified": "2025-05-01 11:38:00.325133",
+  "name": "Travel"
+ },
+ {
+  "article_type": "Fictional Article",
+  "description": "A creative, imaginative piece written in the format of an article but based on made-up events or characters. Common in literary magazines or for satire (like The Onion), it blends storytelling with journalistic style.",
+  "docstatus": 0,
+  "doctype": "Article Type",
+  "modified": "2025-05-01 11:38:31.690691",
+  "name": "Fictional"
+ },
+ {
+  "article_type": "Regional Article",
+  "description": "Focuses on news, culture, events, or issues specific to a geographic area (e.g., a city, state, or province). These articles highlight local traditions, people, and concerns, often appealing to a community audience.",
+  "docstatus": 0,
+  "doctype": "Article Type",
+  "modified": "2025-05-01 11:39:03.048976",
+  "name": "Regional"
+ }
+]
